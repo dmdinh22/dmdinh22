@@ -1,7 +1,7 @@
-<h1 align="center">Hi <img src="https://github.com/dmdinh22/dmdinh22/blob/main/icons/Hi.gif" width="28px"/>, I'm David</h1>
+<img src="https://github.com/dmdinh22/dmdinh22/blob/main/assets/github-header-image.png" />
+<br />
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=dmdinh22&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-  Fullstack Developer
   <a href="https://davidmdinh.com">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
@@ -12,7 +12,7 @@
 
 I am a dedicated Fullstack Developer with a strong background in frontend and backend technologies. I specialize in JavaScript/TypeScript, .NET Core, GoLang, and have some experience with Swift, with a passion for continuous learning and growth. My expertise includes integrating complex systems, improving user interfaces, and enhancing overall user experiences. I thrive on tackling challenging problems and developing innovative, efficient solutions.
 
-<h2> <img align="center" src="https://github.com/dmdinh22/dmdinh22/blob/main/icons/techstack.gif"  width="29"/> Tech Stack</h2>
+<h2> <img align="center" src="https://github.com/dmdinh22/dmdinh22/blob/main/assets/techstack.gif"  width="29"/> Tech Stack</h2>
 
 #### Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -25,7 +25,6 @@ I am a dedicated Fullstack Developer with a strong background in frontend and ba
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
 
 #### Libraries/Frameworks
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
@@ -43,9 +42,6 @@ I am a dedicated Fullstack Developer with a strong background in frontend and ba
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-
-
-
 ### Databases
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -57,7 +53,6 @@ I am a dedicated Fullstack Developer with a strong background in frontend and ba
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-
 #### Deployment | CI/CD
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
@@ -68,15 +63,13 @@ I am a dedicated Fullstack Developer with a strong background in frontend and ba
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-
 #### Tools
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-
-<h2> <img align="center" src="https://github.com/dmdinh22/dmdinh22/blob/main/icons/stats.gif" width="32"/> Stats</h2>
+<h2> <img align="center" src="https://github.com/dmdinh22/dmdinh22/blob/main/assets/stats.gif" width="32"/> Stats</h2>
 
 ### GitHub
 <div align="center">
