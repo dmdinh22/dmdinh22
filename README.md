@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/dmdinh22/dmdinh22/blob/main/icons/Hi.gif" width="28px"/>, I'm David</h1>
 <h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=[dmdinh22]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  <img src="https://komarev.com/ghpvc/?username=dmdinh22&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Fullstack Developer
   <a href="https://davidmdinh.com">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
@@ -75,10 +75,12 @@ I am a dedicated Fullstack Developer with a strong background in frontend and ba
 
 <details>
   <summary><h2> <img align="center" src="https://github.com/dmdinh22/dmdinh22/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+
+  ### GitHub
   <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=dmdinh22&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=dmdinh22&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dmdinh22&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=dmdinh22&theme=tokyo-night)
+   ![](https://github-readme-stats.vercel.app/api?username=dmdinh22&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=dmdinh22&theme=tokyonight&hide_border=false)<br/>
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dmdinh22&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+   ![](https://github-readme-activity-graph.vercel.app/graph?username=dmdinh22&theme=tokyo-night)
   </div>
 </details>
