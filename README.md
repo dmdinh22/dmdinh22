@@ -91,3 +91,11 @@ I am a dedicated Fullstack Developer with a strong background in frontend and ba
 
   </div>
 </details>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ParthJohri/dmdinh22/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/dmdinh22/dmdinh22/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/dmdinh22/dmdinh22/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
