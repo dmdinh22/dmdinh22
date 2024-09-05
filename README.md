@@ -13,7 +13,7 @@
 I am a dedicated Fullstack Developer with a strong background in frontend and backend technologies. I specialize in JavaScript/TypeScript, .NET Core, GoLang, and have some experience with Swift, with a passion for continuous learning and growth. My expertise includes integrating complex systems, improving user interfaces, and enhancing overall user experiences. I thrive on tackling challenging problems and developing innovative, efficient solutions.
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/dmdinh22/dmdinh22/blob/main/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
+  <summary><h2> <img align="center" src="https://github.com/dmdinh22/dmdinh22/blob/main/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
 
   #### Languages
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
