@@ -1,4 +1,4 @@
-<img src="https://github.com/dmdinh22/dmdinh22/blob/main/assets/github-header-image.png" />
+<img src="https://github.com/dmdinh22/dmdinh22/blob/main/assets/github-header-image-neo.png" />
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=dmdinh22&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   <a href="https://davidmdinh.com">
